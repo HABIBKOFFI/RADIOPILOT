@@ -1,9 +1,9 @@
 %PDF-1.4
 1 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 2 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 3 0 obj
 << /Length 1169 >>
@@ -192,7 +192,7 @@ endobj
 << /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /B 2 0 R >> >> /Contents 11 0 R >>
 endobj
 13 0 obj
-<< /Length 2028 >>
+<< /Length 2031 >>
 stream
 0.973 0.98 0.985 rg 0 0 960 540 re f
 0.055 0.13 0.19 rg 0 519 960 21 re f
@@ -222,7 +222,7 @@ stream
 1 1 1 rg 45 91 419 107 re f
 0.2 0.73 0.59 rg 45 193 419 5 re f
 0.075 0.16 0.22 rg BT /B 16 Tf 62 161 Td (INCLUS) Tj ET
-0.38 0.49 0.54 rg BT /F 13 Tf 62 131 Td (Vue KPI, comparaisons, alertes et transparence.) Tj ET
+0.38 0.49 0.54 rg BT /F 13 Tf 62 131 Td (Vue de KPI, comparaisons, alertes et transparence.) Tj ET
 1 1 1 rg 483 91 432 107 re f
 0.97 0.69 0.33 rg 483 193 432 5 re f
 0.075 0.16 0.22 rg BT /B 16 Tf 500 161 Td (EXCLUS) Tj ET
@@ -274,25 +274,25 @@ xref
 0 19
 0000000000 65535 f 
 0000000009 00000 n 
-0000000079 00000 n 
-0000000154 00000 n 
-0000001374 00000 n 
-0000001509 00000 n 
-0000003322 00000 n 
-0000003457 00000 n 
-0000005335 00000 n 
-0000005470 00000 n 
-0000007586 00000 n 
-0000007722 00000 n 
-0000010101 00000 n 
-0000010238 00000 n 
-0000012318 00000 n 
-0000012455 00000 n 
-0000014181 00000 n 
-0000014318 00000 n 
-0000014416 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000001428 00000 n 
+0000001563 00000 n 
+0000003376 00000 n 
+0000003511 00000 n 
+0000005389 00000 n 
+0000005524 00000 n 
+0000007640 00000 n 
+0000007776 00000 n 
+0000010155 00000 n 
+0000010292 00000 n 
+0000012375 00000 n 
+0000012512 00000 n 
+0000014238 00000 n 
+0000014375 00000 n 
+0000014473 00000 n 
 trailer
 << /Size 19 /Root 18 0 R >>
 startxref
-14467
+14524
 %%EOF
