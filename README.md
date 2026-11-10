@@ -127,3 +127,10 @@ python scripts/validate_demo.py
 ```
 
 Le script vérifie des résultats attendus **sur des données fictives** ; il ne prouve pas le gain de temps de 30 %. La photographie originale a été fournie dans la conversation ; elle doit encore être copiée dans le dépôt, et la modalité orale du vote est documentée dans la partie 2.
+
+### Personas visuels
+
+- [Persona Canvas — Habib (DAF)](docs/img/persona-habib.svg)
+- [Persona Canvas — Hariph (directeur des opérations)](docs/img/persona-hariph.svg)
+
+Ces canevas reprennent les rubriques du modèle fourni. Ils présentent des **hypothèses** à valider, et non les résultats d'entretiens utilisateurs.
