@@ -13,9 +13,9 @@
 <rect x="178" y="213" width="360" height="61" rx="10" fill="white" stroke="#77c4b0" stroke-width="2"/><text x="198" y="249" class="d">1. Pilotage centralisé</text>
 <rect x="178" y="292" width="360" height="61" rx="10" fill="white" stroke="#77c4b0" stroke-width="2"/><text x="198" y="329" class="d">2. Détection des écarts</text>
 <rect x="648" y="230" width="390" height="68" rx="10" fill="white" stroke="#e3b576" stroke-width="2"/><text x="670" y="257" class="d">3. Assistant IA conversationnel</text><text x="670" y="279" class="small">Vision V3</text>
-<rect x="178" y="495" width="360" height="63" rx="10" fill="white" stroke="#c0cbd0" stroke-width="2"/><text x="198" y="532" class="d">4. Comparaison des centres</text>
-<rect x="178" y="577" width="360" height="58" rx="10" fill="white" stroke="#c0cbd0" stroke-width="2"/><text x="198" y="612" class="d">5. Comparaison au budget</text>
+<rect x="648" y="317" width="390" height="63" rx="10" fill="white" stroke="#e3b576" stroke-width="2"/><text x="670" y="354" class="d">4. Comparaison des centres</text>
+<rect x="178" y="358" width="360" height="43" rx="10" fill="white" stroke="#77c4b0" stroke-width="2"/><text x="198" y="385" class="d">5. Comparaison au budget</text>
 <text x="504" y="728" class="k">EFFORT →</text><text x="60" y="178" transform="rotate(-90 60 178)" class="k">IMPACT →</text>
 <text x="133" y="692" class="small">Faible</text><text x="1005" y="692" class="small">Élevé</text>
-<text x="57" y="767" class="small">La position des items 4 et 5 est à confirmer : le vote oral ne laisse pas de comptage écrit. Aucune note chiffrée inventée.</text>
+<text x="57" y="767" class="small">Les positions sont indicatives, reconstruites apres atelier ; le vote oral ne laisse pas de comptage ecrit.</text>
 </svg>
