@@ -93,21 +93,15 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 - [Partie 5 — MVP](docs/05-mvp.md)
 - [Deck PDF](docs/deck.pdf)
 - [Journal des usages IA](PROMPTS.md)
-- [Photos de l'atelier et statut des preuves](docs/img/README.md)
+- [Visuels et état de la photographie d'atelier](docs/img/README.md)
 
-## Pièces et confirmations indispensables à une remise intégralement vérifiée
+## Traçabilité et limites de l'exercice
 
-- [x] Photographie d'atelier fournie dans la conversation montrant deux feuilles de huit cases ; **copie dans le dépôt encore à déposer**. Le deuxième support est principalement textuel.
-- [x] Groupe consulté : choix des trois axes confirmé par **vote oral** ; scores chiffrés inexistants. **Écart assumé** vis-à-vis de la consigne de vote silencieux à trois points.
-- [x] Matrice à **5 idées reconstruite et documentée** dans `docs/img/matrice-impact-effort.svg` ; il ne s'agit pas de la photo d'une matrice d'atelier.
-- [ ] Reproduire le Value Proposition Canvas sur le modèle fourni dans PSB Learn.
-- [x] Membres confirmés : Habib KOFFI et Hariph ASSOUMA ALASSANE.
-- [ ] Compléter le journal `PROMPTS.md` avec les prompts originaux disponibles.
-- [ ] **À faire impérativement** : un commit depuis l'ordinateur et le compte GitHub de chacun ; les commits via MCP ne remplacent pas cette exigence.
-- [ ] Vérifier l'accès de l'enseignante au repo avant dépôt du lien.
+Le Crazy 8 est documenté par une photographie originale fournie par les membres du groupe ; sa transcription et la matrice reconstruite sont présentées dans [la partie 2](docs/02-ideer.md). La sélection des idées a été effectuée **oralement**, sans décompte écrit de points : cette modalité diffère du vote silencieux demandé par l'énoncé et n'est pas présentée comme un vote silencieux à trois points. La photographie doit encore être versée au dossier `docs/img/` pour être accessible à l'enseignante.
 
-**Le statut des éléments est documenté sans transformer la preuve d'un atelier oral en vote silencieux.** Le hors-périmètre du cours inclut Linear, le WBS détaillé et le Gantt : non ajoutés.
+Les objectifs, jalons, données et scénarios sont des éléments **proposés** pour le cadrage. Les besoins des personas ne sont pas présentés comme des résultats d'entretiens ; la phase de test du MVP reste planifiée, et non réalisée. Les prompts historiques non disponibles sont explicitement indiqués dans `PROMPTS.md`.
 
+La conformité détaillée et les preuves à produire figurent dans [l'audit](docs/audit-conformite.md). La charte privilégie la maîtrise du périmètre et la fiabilité plutôt qu'un développement prématuré.
 
 ## Renforts méthodologiques et démonstrateur vérifiable
 
@@ -132,4 +126,4 @@ Le prototype HTML peut être téléchargé et ouvert localement, sans serveur ni
 python scripts/validate_demo.py
 ```
 
-Le script vérifie des résultats attendus **sur des données fictives** ; il ne prouve pas le gain de temps de 30 %. Les preuves authentiques de Design Thinking restent à fournir.
+Le script vérifie des résultats attendus **sur des données fictives** ; il ne prouve pas le gain de temps de 30 %. La photographie originale a été fournie dans la conversation ; elle doit encore être copiée dans le dépôt, et la modalité orale du vote est documentée dans la partie 2.
