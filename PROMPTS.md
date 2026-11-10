@@ -35,3 +35,33 @@ Le groupe indique avoir voté **oralement**, sans score chiffré écrit. L'IA a 
 - Document du professeur : `MSCI2026_DESIGN THINKING_TRAN_04_EVAL(1)(2).pdf` (fourni dans la conversation, non copié dans le dépôt).
 - Document de groupe : `Texte collé(10).txt` (fourni dans la conversation, non copié pour limiter la diffusion).
 - Les autres formulations de prompts ne sont **pas accessibles** dans leur forme originale : à compléter si elles peuvent être retrouvées.
+
+## Instructions originales retrouvées — finalisation du 10 novembre 2026
+
+Les extraits ci-dessous ont été **effectivement transmis** par le groupe dans la conversation ; ils ne sont pas des prompts reconstruits par l'IA.
+
+### Demande de correction globale
+
+> « corrige et fais le passer a 18/20 tu as le champs libre !!! »
+
+**Usage :** renforcer le dictionnaire des données et les contrôles, le protocole de test, la maquette synthétique et la présentation. **Conservé :** le cadrage déjà établi ; **rejeté :** toute note garantie, tout résultat utilisateur inventé.
+
+### Choix du dépôt
+
+> « ok mais assure toi que tout est conforme et avec aucune divergenece entre les partie etc Utilise le repo RADIOPILOT »
+
+**Usage :** harmoniser les documents et publier dans le dépôt `HABIBKOFFI/RADIOPILOT`. **Conservé :** noms de fichiers exigés, 6 parties, assistant IA en V3, objectif testable sans prétendre à sa réalisation.
+
+### Transmission de la preuve d'atelier
+
+> « Voici la photo crazy. Le vote est fait oralement pas besoin. La matrice tu la crée à partir de ce qui est dans le rendus. RADIOPILOT EST BIEN LE CONCEPT »
+
+**Usage :** analyser la photographie, transcrire deux séries de huit pistes et construire une matrice de **cinq idées** à partir des idées et de la convergence déjà présentes. **Conservé :** vote oral déclaré et concept RADIOPILOT confirmé ; **corrigé :** la distinction entre vote oral et vote silencieux à trois points exigé par l'enseignante, sans points fictifs.
+
+### Composition et procédure GitHub
+
+> « Habib koffi / Hariph Assouma Alassane [...] Habib a créer le repo et les commit ont été fait via MCP [...] les prompte à toi de les remplir »
+
+**Usage :** confirmer les membres dans la charte et le deck, consigner les usages IA retrouvés, signaler que les commits via MCP ne remplacent pas les commits individuels depuis les deux ordinateurs.
+
+**Limite :** des prompts des séances d'idéation antérieures ne sont pas accessibles dans leur forme textuelle d'origine ; ils restent signalés comme non disponibles plutôt que d'être inventés.
