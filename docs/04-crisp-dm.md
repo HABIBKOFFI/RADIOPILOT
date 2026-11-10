@@ -76,3 +76,13 @@ Contrôles prévus : dates et devises homogènes, clés centre/période stables,
 | US03 | Centres, périodes, types d'activités et indicateurs comparables |
 | US04 | Écarts, seuils à valider, statuts de qualité |
 | US05 | Dictionnaire KPI, source (fictive pour prototype), fraîcheur, préférences facultatives si activées |
+
+
+## Annexes techniques et traçabilité des règles
+
+- [Architecture conceptuelle des flux fictifs](img/architecture-data.svg)
+- [Dictionnaire, granularité, contrôles et cas de référence](data-dictionary.md)
+- [Jeu de scénarios totalement synthétiques](../data/radiopilot_synthetique.csv)
+- [Protocole de test et seuil de réussite](protocole-test.md)
+
+**Deux pourcentages différents :** `-10 %` est un **seuil d'alerte fictif de démonstration** ; `30 %` est un **objectif de gain de temps** à mesurer auprès d'utilisateurs. Aucun de ces seuils ne constitue une performance prouvée.
