@@ -7,7 +7,7 @@ Tester **H1** : l'interface RADIOPILOT permet aux deux personas de repérer troi
 ## Matériel
 
 - Version de référence : feuille de reporting fictive, contenant les mêmes informations que la maquette mais réparties par sections.
-- Version MVP : prototype cliquable RADIOPILOT sur **scénarios fictifs**.
+- Version MVP : [prototype HTML cliquable RADIOPILOT](prototype.html) sur **scénarios fictifs**, consultable localement après téléchargement. Les éventuelles erreurs de la maquette doivent être corrigées avant les séances de test.
 - Deux ensembles de trois écarts de difficulté comparable préparés à l'avance (A et B).
 - Feuille de chronométrage, grille de correction avec centre/période/écart exact, questionnaire d'observation.
 - Consentement à participer aux tests et minimisation des données personnelles de test.
