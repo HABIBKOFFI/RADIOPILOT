@@ -44,3 +44,16 @@ Ce dossier distingue **conformité structurelle** et **preuve d'exécution**. Il
 **Prototype :** [fichier HTML interactif](prototype.html) disponible, mais aucune donnée de test utilisateur réel ne permet encore de valider H1.
 
 **Conclusion :** documentation techniquement et méthodologiquement cohérente, mais **conformité à 100 % non certifiée** tant que les preuves ci-dessus manquent.
+
+## Contrôle GitHub du 10 novembre 2026
+
+- Dépôt : `HABIBKOFFI/RADIOPILOT`, branche `main` ; **visibilité publique vérifiée** (consultation sans invitation GitHub possible, sous réserve de disponibilité du service).
+- Noms confirmés : **Habib KOFFI** et **Hariph ASSOUMA ALASSANE**.
+- Matrice : [cinq idées reconstruite](img/matrice-impact-effort.svg), clairement distinguée d'une photographie historique.
+- Crazy 8 : photo originale transmise dans la conversation, **copie à déposer dans `docs/img/crazy8-groupe.jpg`**.
+- Vote : oral, sans points écrits ; la conformité littérale à la modalité « en silence, trois points/personne » n'est pas établie.
+- Deck : huit diapositives PDF avec les deux noms ; format conforme à la demande (6 à 8).
+- **Tests utilisateurs :** la consigne demande l'hypothèse la plus risquée, la forme et le protocole de validation du MVP, **pas la réalisation du test ni des résultats observés**.
+- **Commits individuels :** les commits effectués via MCP ne constituent pas la preuve de deux contributions Git effectuées depuis deux ordinateurs ; il reste cette étape de procédure pour chaque membre.
+
+L'évaluation doit distinguer « livrable rédigé, techniquement vérifié » de « conformité de toutes les preuves de l'atelier ». Aucun score académique n'est garanti.
