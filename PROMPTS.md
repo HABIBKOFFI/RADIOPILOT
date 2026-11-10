@@ -709,3 +709,21 @@ Ne prends aucune décision arbitraire pour résoudre un conflit.
 Tu peux néanmoins corriger les erreurs purement typographiques qui ne changent pas le sens.
 
 **OBJECTIF FINAL : obtenir un rendu universitaire complet, cohérent, professionnel, traçable, conforme aux consignes du professeur et fidèle aux décisions réelles de notre groupe.**
+
+---
+
+# Utilisation de l'IA et décisions du groupe
+
+Ce bilan documente l'usage de ChatGPT pour RADIOPILOT. Le prompt intégral ci-dessus est conservé **sans modification**. Le groupe reste responsable de ses choix ; les contributions de l'IA sont distinguées des décisions et preuves réelles.
+
+| Élément | Utilisation et justification |
+|---|---|
+| **Outil et objectif** | ChatGPT (OpenAI), utilisé pour examiner les consignes, structurer le travail de groupe, reformuler les livrables, préparer des exemples et contrôler la cohérence académique. |
+| **Prompt utilisé** | Le prompt intégral reproduit ci-dessus ; aucun prompt supplémentaire n'est présenté comme prompt original. |
+| **Contributions de l'IA** | Aide à la rédaction des six parties ; proposition de charte, méthode CRISP-DM, hypothèse SMART, story map, cinq user stories et critères d'acceptation ; préparation d'une matrice Impact/Effort, d'un prototype cliquable sur données fictives et du deck PDF ; organisation du dépôt GitHub. |
+| **Éléments conservés dans le rendu** | Structure des livrables, comparaison réalisé/budget, vue consolidée, benchmark contextualisé, alertes, transparence des KPI, objectif de test proposé à 30 % et démarche CRISP-DM. |
+| **Éléments adaptés** | La matrice Impact/Effort a été **reconstruite** à partir de la photographie du Crazy 8 et des idées documentées ; ses positions sont des estimations. Le périmètre du prototype a été précisé : scénarios et calculs locaux fictifs, pas de connexion au système d'information réel. |
+| **Éléments écartés ou reportés du MVP** | L'assistant IA conversationnel n'est **pas abandonné** : idée du groupe conservée en V3, plutôt que développée dans le prototype initial. Les données réelles/confidentielles sont exclues du dépôt et des démonstrations. Ces choix de périmètre ne constituent pas la preuve de propositions de l'IA explicitement rejetées pendant l'atelier. |
+| **Justification** | Préserver les décisions du groupe, respecter les exigences du professeur, privilégier un MVP léger et testable, éviter les données confidentielles et ne pas présenter des simulations comme des résultats réels. |
+
+**Traçabilité et limites.** RADIOPILOT a été confirmé comme concept par le groupe. Deux feuilles de Crazy 8 figurent dans la photographie fournie ; le vote a été déclaré **oral**, sans comptage par points conservé. ChatGPT n'a ni mené d'entretiens utilisateurs, ni effectué de vote, ni obtenu de résultat de test utilisateur. Les données du prototype sont fictives. Habib KOFFI a créé le dépôt ; les modifications documentaires ont été effectuées via les outils MCP, ce qui ne prouve pas des commits personnels de chaque membre depuis son ordinateur. Le professeur demande également de décrire les suggestions rejetées : aucune décision de rejet non documentée n'est inventée ici.
