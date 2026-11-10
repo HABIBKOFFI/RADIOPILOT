@@ -41,4 +41,6 @@ Ce dossier distingue **conformité structurelle** et **preuve d'exécution**. Il
 5. Prompts initiaux à récupérer si disponibles.
 6. Vérification accès enseignante et dépôt final.
 
+**Prototype :** [fichier HTML interactif](prototype.html) disponible, mais aucune donnée de test utilisateur réel ne permet encore de valider H1.
+
 **Conclusion :** documentation techniquement et méthodologiquement cohérente, mais **conformité à 100 % non certifiée** tant que les preuves ci-dessus manquent.
