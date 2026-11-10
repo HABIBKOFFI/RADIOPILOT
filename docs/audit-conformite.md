@@ -7,9 +7,9 @@ Ce dossier distingue **conformité structurelle** et **preuve d'exécution**. Il
 | Deux personas, contexte, objectif, frustration et citation | `01-comprendre.md` | CONFORME sur la structure | Citations illustratives, besoins à confirmer |
 | 3 affirmations fait/supposition et vérification | `01-comprendre.md` | PARTIELLEMENT CONFORME | Vérifier la source métier du « fait » |
 | HMW sans solution, question CRISP-DM | `01-comprendre.md` | CONFORME | — |
-| Crazy 8 individuels (8 croquis, 3 mots max) | `02-ideer.md` et dossier images | MANQUANT (preuves) | Photos authentiques des feuilles |
-| Vote à 3 points par personne | Trois idées citées | PARTIELLEMENT CONFORME | Résultats chiffrés réels |
-| Matrice de 5 idées et photo | Positionnement hypothétique explicite | PARTIELLEMENT CONFORME | Confirmer cinq idées réelles et photo |
+| Crazy 8 individuels (8 croquis, 3 mots max) | `02-ideer.md` et dossier images | PARTIELLEMENT CONFORME — photo fournie, transfert GitHub restant | Photo originale communiquée, transfert au dépôt restant |
+| Vote à 3 points par personne | Trois idées citées | PARTIELLEMENT CONFORME | Vote oral sans points consignés ; écart avec la consigne officielle |
+| Matrice de 5 idées et photo | Positionnement hypothétique explicite | PARTIELLEMENT CONFORME | Matrice reconstruite à cinq idées ; pas de photo historique |
 | Phrase-concept au format exigé | `02-ideer.md` | CONFORME | — |
 | VPC « cercle », « carré », fit et ? | `03-valeur.md` | PARTIELLEMENT CONFORME | Report sur canevas PSB Learn |
 | Charte 6 sections + triangle d'or | `README.md` | CONFORME sur la structure | Objectif/jalons à valider |
@@ -36,8 +36,8 @@ Ce dossier distingue **conformité structurelle** et **preuve d'exécution**. Il
 
 1. Preuves authentiques de divergence/convergence : Crazy 8, vote et matrice.
 2. Modèle VPC des annexes du cours.
-3. Membres du groupe et commits personnels.
-4. Exécution éventuelle du protocole : ne pas prétendre avoir testé sans mesures.
+3. Noms confirmés (Habib KOFFI, Hariph ASSOUMA ALASSANE) ; commits personnels depuis les deux postes à réaliser.
+4. Les résultats de tests réels ne sont **pas exigés** pour le devoir de cadrage ; seul un protocole et une hypothèse testable sont demandés. Ne pas prétendre avoir testé sans mesures.
 5. Prompts initiaux à récupérer si disponibles.
 6. Vérification accès enseignante et dépôt final.
 
