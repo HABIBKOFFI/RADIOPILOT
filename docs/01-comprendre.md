@@ -38,3 +38,17 @@ Cette question ne présuppose ni plateforme, ni tableau de bord, ni IA.
 **Décisions concernées :** sélectionner les centres ou périodes à analyser en priorité et identifier les actions pertinentes à instruire. La solution n'affirme pas établir des causalités automatiquement.
 
 **Preuves à obtenir :** validation des deux profils par des utilisateurs réels, entretien ou observation de la pratique actuelle, vérification de l'affirmation métier, source autorisée pour les KPI.
+
+## Persona Canvas — version visuelle alignée sur le modèle fourni
+
+Les deux canevas reprennent **les huit zones du modèle original** (*Negative Trends, Positive Trends, Headaches, Opportunities, Fears, Hopes, Need, Name / Role*). Ils ne contiennent pas de rubrique ajoutée sur les outils ou les habitudes. Les âges sont ceux du cadrage initial : **Habib, 38 ans ; Hariph, 35 ans**.
+
+### Habib — DAF
+
+![Persona Canvas — Habib, DAF](img/persona-habib.svg)
+
+### Hariph — Directeur des opérations
+
+![Persona Canvas — Hariph, opérations](img/persona-hariph.svg)
+
+**Portée méthodologique :** ces canevas visualisent le contenu du projet déjà rédigé et des hypothèses de conception ; ils ne représentent pas des résultats d'entretiens. Les formulations « opportunités » et « espoirs » sont des bénéfices **souhaités**, non démontrés. L'analyse approfondie des facteurs des écarts reste en V2, et l'assistant IA conversationnel demeure envisagé en V3 comme dans la charte et la proposition de valeur.
