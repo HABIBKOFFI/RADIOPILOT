@@ -41,7 +41,7 @@ Les responsables financiers et opérationnels doivent analyser ensemble chiffre 
 | Alertes sur écarts selon scénarios fictifs | **Assistant IA conversationnel (V3, idée retenue)** |
 | Information sur définition, source fictive et fraîcheur des KPI | Décision automatisée et mise en production |
 
-Les changements de valeurs dans la maquette correspondent à des **scénarios préparés**. Il ne s'agit pas d'un moteur de calcul industriel.
+Le [prototype HTML interactif](docs/prototype.html) utilise des **scénarios synthétiques fixes**, avec **calculs déterministes exécutés localement** dans le navigateur. Il ne se connecte à aucun SI et ne constitue pas un moteur de calcul industriel.
 
 ## 4. Parties prenantes — matrice pouvoir / intérêt
 
@@ -111,6 +111,7 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 
 ## Renforts méthodologiques et démonstrateur vérifiable
 
+- [Prototype interactif autonome (HTML)](docs/prototype.html)
 - [Dictionnaire des données et calculs de référence](docs/data-dictionary.md)
 - [Jeu de données entièrement fictif](data/radiopilot_synthetique.csv)
 - [Protocole de test utilisateur (vierge)](docs/protocole-test.md)
