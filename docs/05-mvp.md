@@ -13,7 +13,7 @@
 
 ## 2. Forme la plus légère du MVP
 
-Un **prototype cliquable**, présentant (1) une vue consolidée, (2) réalisé/budget, (3) un benchmark contextualisé, (4) des alertes visibles et explicables, (5) le détail de définition/source/fraîcheur d'un KPI (responsabilité). Les nombres des cas tests sont **entièrement fictifs**. La maquette simule les changements de centre/période, et non des calculs live ou une connexion au SI.
+Un **prototype cliquable**, présentant (1) une vue consolidée, (2) réalisé/budget, (3) un benchmark contextualisé, (4) des alertes visibles et explicables, (5) le détail de définition/source/fraîcheur d'un KPI (responsabilité). Les nombres des cas tests sont **entièrement fictifs**. La maquette propose une navigation cliquable entre scénarios synthétiques fixes et calcule localement les écarts à l'aide de règles déterministes. Elle ne réalise ni calcul sur des flux réels ni connexion au SI.
 
 **Hors MVP :** analyse approfondie des facteurs (V2), détail des équipements (V2), simulation, actualisation temps réel et assistant IA conversationnel (V3).
 
@@ -29,7 +29,7 @@ Créer deux scénarios de complexité comparable comportant chacun trois écarts
 | **— LIGNE DE DÉCOUPE MVP —** | — | — | — | — | — |
 | Versions ultérieures | Gestion avancée des rôles | Temps réel (V3) | Équipements (V2) | Facteurs (V2) ; assistant IA (V3) | Simulations d'actions (V3) |
 
-Le MVP couvre toutes les étapes du parcours sans prétendre construire toute la solution. Les interactions sont simulées sur données fictives.
+Le MVP couvre toutes les étapes du parcours sans prétendre construire toute la solution. Les interactions sont exécutées localement sur données fictives, sans backend réel.
 
 ## 4. User stories et critères d'acceptation
 
@@ -77,6 +77,10 @@ Le MVP couvre toutes les étapes du parcours sans prétendre construire toute la
 
 Les critères de test sont vérifiables sur prototype interactif ; ils n'attestent **pas** du fonctionnement d'un système de données réel. Aucun seuil métier autre que le **30 % du test** n'est présenté comme validé par un utilisateur.
 
+
+## Prototype disponible
+
+Le [prototype cliquable HTML](prototype.html) est présent dans le dépôt. Il permet de sélectionner un centre et une période, de voir les KPI, le budget, l'écart, les alertes et les comparaisons, ainsi que les définitions et la provenance. Les nombres restent exclusivement fictifs. Le fichier peut être ouvert dans un navigateur après téléchargement ; son existence n'atteste pas encore d'un test utilisateur.
 
 ## Visualisation et protocole associé
 
