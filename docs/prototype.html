@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RADIOPILOT — Prototype cliquable académique</title>
+<style>
+:root{font-family:Inter,system-ui,Segoe UI,Arial,sans-serif;color:#183345;background:#f5f8fa}*{box-sizing:border-box}
+body{margin:0}header{background:#102d40;color:#fff;padding:22px max(22px,calc((100vw - 1100px)/2))}
+header h1{margin:0;font-size:28px;letter-spacing:.04em}header small{color:#b8d8df}main{max-width:1100px;margin:24px auto;padding:0 20px 50px}
+.notice{background:#fff4db;border-left:5px solid #d6952b;padding:13px 17px;margin-bottom:24px;line-height:1.5}
+.bar{display:flex;flex-wrap:wrap;gap:14px;align-items:end;margin:0 0 20px}.field{display:flex;flex-direction:column;gap:6px;font-weight:650}
+select,button{font:inherit;padding:11px 13px;border:1px solid #aac2cc;border-radius:9px;background:#fff;color:#153d50}
+button{cursor:pointer;background:#0d776e;color:white;border-color:#0d776e}.ghost{background:#fff;color:#174958}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(170px,1fr));gap:14px}
+.kpi,.panel{background:#fff;border:1px solid #e0e9ec;border-radius:12px;padding:18px;box-shadow:0 2px 10px #102d4010}
+.kpi span{display:block;color:#56717b;font-size:13px}.kpi strong{font-size:26px;display:block;margin-top:8px}.kpi em{font-size:12px;color:#56717b;font-style:normal}
+h2{font-size:19px;margin:28px 0 12px}.panels{display:grid;grid-template-columns:1.4fr 1fr;gap:16px}
+table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:10px 9px;border-bottom:1px solid #e8edf0;font-size:14px}th{color:#58717e;font-weight:650}
+.bad{color:#ae3c39;font-weight:700}.good{color:#168269;font-weight:700}.neutral{color:#8b6425;font-weight:700}
+details{margin-top:18px;background:#eaf3f4;border-radius:10px;padding:14px;line-height:1.6}
+footer{margin-top:22px;color:#607884;font-size:13px}
+@media(max-width:800px){.grid{grid-template-columns:repeat(2,1fr)}.panels{grid-template-columns:1fr}}
+@media(max-width:460px){.grid{grid-template-columns:1fr}}
+</style></head><body>
+<header><h1>RADIOPILOT <small>Prototype de demonstration</small></h1><small>MSc Data Management 2 — Cas et indicateurs 100 % fictifs, sans connexion a un SI reel</small></header>
+<main>
+<div class="notice"><b>Prototype pédagogique cliquable.</b> Il simule la sélection d'un centre et d'un mois à partir de 12 scénarios prédéfinis. Les règles d'écart et les alertes sont calculées localement dans cette page ; cela ne constitue pas un produit en production. Seuil de démonstration : <b>-10 %</b>. Objectif de test utilisateur : <b>30 % de gain de temps</b> (non mesuré).</div>
+<div class="bar"><label class="field">Centre <select id="centre"><option value="C01">Centre A — IRM</option><option value="C02">Centre B — Scanner</option><option value="C03">Centre C — IRM</option><option value="C04">Centre D — Scanner</option></select></label><label class="field">Mois <select id="mois"><option value="2026-01">Janvier 2026</option><option value="2026-02" selected>Février 2026</option><option value="2026-03">Mars 2026</option></select></label><button id="source">Définition et provenance</button><button id="preference" class="ghost" aria-pressed="false">Activer préférence d'affichage (facultative)</button></div>
+<div class="grid">
+<div class="kpi"><span>Chiffre d'affaires réalisé</span><strong id="ca">—</strong><em>EUR / période</em></div>
+<div class="kpi"><span>Budget</span><strong id="budget">—</strong><em>EUR / période</em></div>
+<div class="kpi"><span>Écart au budget</span><strong id="ecart">—</strong><em>EUR et pourcentage</em></div>
+<div class="kpi"><span>Activité</span><strong id="examens">—</strong><em id="vacations">Examens / vacations</em></div>
+</div>
+<h2>Signal d'alerte</h2><div class="panel" id="alerte" role="status"></div>
+<div class="panels"><div><h2>Comparer les centres</h2><div class="panel"><p>Comparaison descriptive sur la même période. Les modalités et les équipements restent visibles : un classement brut ne démontre pas les causes.</p><table><thead><tr><th>Centre</th><th>Modalité</th><th>Équipements</th><th>Écart %</th></tr></thead><tbody id="benchmark"></tbody></table></div></div>
+<div><h2>Informations de transparence</h2><div class="panel"><p><b>Règle d'alerte fictive :</b> écart relatif inférieur ou égal à -10 %, uniquement si réalisé et budget sont renseignés et si le budget est strictement positif.</p><p><b>Qualité :</b> une donnée absente ne vaut jamais zéro. Si le budget est nul, l'écart relatif n'est pas calculable.</p><p><b>Provenance :</b> jeu synthétique créé pour le projet.</p><p id="prefstatus"><b>Personnalisation :</b> inactive. Le fonctionnement essentiel reste disponible.</p></div></div></div>
+<details id="details"><summary>Voir la définition des indicateurs et leur fraîcheur</summary><p><b>Écart absolu :</b> CA réalisé moins budget, en euros. <b>Écart relatif :</b> 100 × (réalisé − budget) / budget, uniquement lorsque le budget est non nul. <b>Volume :</b> nombre d'examens par centre et mois. <b>Vacations :</b> sessions illustratives.</p><p><b>Date de référence :</b> période sélectionnée. <b>Source :</b> <code>data/radiopilot_synthetique.csv</code>, valeurs fictives transcrites dans cette maquette. <b>Actualisation :</b> données fixes, aucun flux en temps réel.</p></details>
+<footer>RADIOPILOT — démonstration académique. Aucun patient, aucune donnée confidentielle, aucune validation utilisateur prétendue.</footer>
+</main>
+<script>
+const rows=[
+["2026-01","C01","Centre A","IRM",110000,120000,44000,710,80,2,"VALIDE"],
+["2026-02","C01","Centre A","IRM",104000,120000,41600,670,78,2,"VALIDE"],
+["2026-03","C01","Centre A","IRM",125000,120000,50000,790,84,2,"VALIDE"],
+["2026-01","C02","Centre B","Scanner",90000,100000,36000,615,74,2,"VALIDE"],
+["2026-02","C02","Centre B","Scanner",105000,100000,42000,690,79,2,"VALIDE"],
+["2026-03","C02","Centre B","Scanner",88000,100000,35200,600,70,2,"VALIDE"],
+["2026-01","C03","Centre C","IRM",190000,200000,76000,1190,135,3,"VALIDE"],
+["2026-02","C03","Centre C","IRM",180000,200000,72000,1120,130,3,"VALIDE"],
+["2026-03","C03","Centre C","IRM",210000,200000,84000,1320,140,3,"VALIDE"],
+["2026-01","C04","Centre D","Scanner",70000,0,28000,480,65,1,"VALIDE"],
+["2026-02","C04","Centre D","Scanner",null,85000,34000,560,69,1,"INCOMPLET"],
+["2026-03","C04","Centre D","Scanner",90000,85000,36000,600,72,1,"VALIDE"]
+].map(([mois,id,nom,modalite,ca,budget,honoraires,examens,vacations,equipements,qualite])=>({mois,id,nom,modalite,ca,budget,honoraires,examens,vacations,equipements,qualite}));
+const eur=n=>n===null?"Indisponible":new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR",maximumFractionDigits:0}).format(n);
+const pct=n=>new Intl.NumberFormat("fr-FR",{style:"percent",minimumFractionDigits:2,maximumFractionDigits:2}).format(n);
+function deviation(r){if(r.ca===null||r.budget===null||r.qualite!=="VALIDE")return null;if(r.budget===0)return null;return (r.ca-r.budget)/r.budget;}
+function render(){let id=document.getElementById("centre").value,mois=document.getElementById("mois").value;let r=rows.find(x=>x.id===id&&x.mois===mois),d=deviation(r);
+document.getElementById("ca").textContent=eur(r.ca);document.getElementById("budget").textContent=eur(r.budget);
+document.getElementById("ecart").textContent=r.ca===null||r.budget===null?"Non calculable":eur(r.ca-r.budget)+(d===null?" · % non calculable":" · "+pct(d));
+document.getElementById("examens").textContent=String(r.examens);document.getElementById("vacations").textContent=r.vacations+" vacations · "+r.equipements+" équipement(s)";
+const alert=document.getElementById("alerte");
+if(r.qualite!=="VALIDE"||r.ca===null||r.budget===null){alert.className="panel neutral";alert.textContent="Alerte non évaluable : données manquantes ou incomplètes. Ne pas interpréter cette absence comme une bonne performance."}
+else if(r.budget===0){alert.className="panel neutral";alert.textContent="Écart relatif non calculable : budget nul. Aucune classification d'alerte automatique."}
+else if(d<=-.10){alert.className="panel bad";alert.textContent="Alerte défavorable — "+r.nom+", "+mois+" : "+pct(d)+" vs budget. Seuil de démonstration : -10 %."}
+else{alert.className="panel good";alert.textContent="Pas d'alerte défavorable au seuil fictif de -10 %. Cela ne prouve pas l'absence de problème métier."}
+document.getElementById("benchmark").innerHTML="";
+rows.filter(x=>x.mois===mois).forEach(x=>{let tr=document.createElement("tr");let v=deviation(x);[x.nom,x.modalite,String(x.equipements),v===null?"Non calculable":pct(v)].forEach((s,i)=>{let td=document.createElement("td");td.textContent=s;if(i===3)td.className=v===null?"neutral":v<=-.10?"bad":"good";tr.appendChild(td)});if(x.id===id)tr.style.background="#e9f7f3";document.getElementById("benchmark").appendChild(tr)});
+}
+document.getElementById("centre").addEventListener("change",render);
+document.getElementById("mois").addEventListener("change",render);
+document.getElementById("source").addEventListener("click",()=>{document.getElementById("details").open=true;document.getElementById("details").scrollIntoView({behavior:"smooth"});});
+document.getElementById("preference").addEventListener("click",e=>{let v=e.currentTarget.getAttribute("aria-pressed")==="true";e.currentTarget.setAttribute("aria-pressed",String(!v));document.getElementById("prefstatus").textContent="Personnalisation facultative : "+(!v?"activée localement (préférence visuelle)":"inactive")+". Les fonctions essentielles restent accessibles.";});
+render();
+</script></body></html>
