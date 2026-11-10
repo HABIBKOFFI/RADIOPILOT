@@ -2,7 +2,7 @@
 
 **Innovation & Design Thinking × Project Management — Séance 4**  
 **MSc Data Management 2 — Paris School of Business**  
-**Groupe :** membres à compléter et confirmer avant remise (le document de travail cite Hariph ASSOUMA ALASSANE ; les noms des autres contributeurs doivent être confirmés).
+**Groupe :** Habib KOFFI ; Hariph ASSOUMA ALASSANE.
 
 RADIOPILOT est un concept de pilotage de la performance financière et opérationnelle des centres d'imagerie médicale. Il vise à consolider les indicateurs, comparer le réalisé aux objectifs et repérer rapidement les écarts pour éclairer les décisions.
 
@@ -97,16 +97,16 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 
 ## Pièces et confirmations indispensables à une remise intégralement vérifiée
 
-- [ ] Photographies authentiques des Crazy 8 individuels, 8 cases et croquis chacun.
-- [ ] Trace réelle du vote : 3 points par personne.
-- [ ] Photographie de la matrice Impact/Effort à **5 idées**.
+- [x] Photographie d'atelier fournie dans la conversation montrant deux feuilles de huit cases ; **copie dans le dépôt encore à déposer**. Le deuxième support est principalement textuel.
+- [x] Groupe consulté : choix des trois axes confirmé par **vote oral** ; scores chiffrés inexistants. **Écart assumé** vis-à-vis de la consigne de vote silencieux à trois points.
+- [x] Matrice à **5 idées reconstruite et documentée** dans `docs/img/matrice-impact-effort.svg` ; il ne s'agit pas de la photo d'une matrice d'atelier.
 - [ ] Reproduire le Value Proposition Canvas sur le modèle fourni dans PSB Learn.
-- [ ] Confirmer la liste des membres et la répartition des contributions.
+- [x] Membres confirmés : Habib KOFFI et Hariph ASSOUMA ALASSANE.
 - [ ] Compléter le journal `PROMPTS.md` avec les prompts originaux disponibles.
-- [ ] Vérifier au moins un commit de chaque membre depuis son propre ordinateur.
+- [ ] **À faire impérativement** : un commit depuis l'ordinateur et le compte GitHub de chacun ; les commits via MCP ne remplacent pas cette exigence.
 - [ ] Vérifier l'accès de l'enseignante au repo avant dépôt du lien.
 
-**Aucune de ces cases n'est cochée sans preuve.** Le hors-périmètre du cours inclut Linear, le WBS détaillé et le Gantt : non ajoutés.
+**Le statut des éléments est documenté sans transformer la preuve d'un atelier oral en vote silencieux.** Le hors-périmètre du cours inclut Linear, le WBS détaillé et le Gantt : non ajoutés.
 
 
 ## Renforts méthodologiques et démonstrateur vérifiable
@@ -116,6 +116,7 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 - [Jeu de données entièrement fictif](data/radiopilot_synthetique.csv)
 - [Protocole de test utilisateur (vierge)](docs/protocole-test.md)
 - [Architecture du flux de démonstration](docs/img/architecture-data.svg)
+- [Matrice Impact/Effort reconstruite](docs/img/matrice-impact-effort.svg)
 - [Visualisation de la story map](docs/img/story-map.svg)
 - [Représentation de travail du Value Proposition Canvas](docs/img/vpc-travail.svg) — **ne remplace pas** le modèle PSB Learn.
 - [Audit de conformité et preuves manquantes](docs/audit-conformite.md)
