@@ -57,7 +57,7 @@ Contrôles prévus : dates et devises homogènes, clés centre/période stables,
 
 ## 6. Deployment
 
-**MVP :** maquette cliquable, cas d'utilisation fictifs, accès limité aux personnes participant au test. Un prototype fonctionnel en production n'est pas annoncé. **Utilisation future envisagée :** outil de pilotage et alertes, selon les droits métiers. Maintenance d'une future solution : équipe data pour qualité/calculs, responsables métier pour validation des KPI, DSI pour exploitation, DPO et juridique selon traitement ; rôles non confirmés.
+**MVP :** [prototype HTML cliquable](prototype.html), cas d'utilisation fictifs, calculs locaux déterministes et aucune connexion aux données réelles. Un prototype fonctionnel en production n'est pas annoncé. **Utilisation future envisagée :** outil de pilotage et alertes, selon les droits métiers. Maintenance d'une future solution : équipe data pour qualité/calculs, responsables métier pour validation des KPI, DSI pour exploitation, DPO et juridique selon traitement ; rôles non confirmés.
 
 ## Itérations, risque prioritaire, RGPD
 
