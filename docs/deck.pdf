@@ -6,202 +6,299 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 3 0 obj
-<< /Length 957 >>
+<< /Length 1124 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (RADIOPILOT) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Du probleme au projet data) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (Pilotage des centres d'imagerie medicale) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Innovation & Design Thinking x Project Management) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (MSc Data Management 2 - Paris School of Business) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (Membres du groupe : a confirmer avant remise) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (1 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (INNOVATION & DESIGN THINKING X PROJECT MANAGEMENT) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (RADIOPILOT) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (1 / 8) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 58 355 Td (COMPRENDRE LES ECARTS.) Tj ET
+0.26 0.83 0.72 rg BT /FB 30 Tf 58 309 Td (DECIDER PLUS VITE.) Tj ET
+0.64 0.75 0.79 rg BT /F 18 Tf 60 254 Td (Plateforme conceptuelle de pilotage financier et operationnel des) Tj ET
+0.64 0.75 0.79 rg BT /F 18 Tf 60 228 Td (centres d'imagerie medicale.) Tj ET
+0.09 0.17 0.23 rg 57 126 846 84 re f
+0.95 0.95 0.93 rg BT /FB 20 Tf 80 170 Td (2 personas) Tj ET
+0.95 0.95 0.93 rg BT /FB 20 Tf 340 170 Td (1 question metier) Tj ET
+0.95 0.95 0.93 rg BT /FB 20 Tf 650 170 Td (1 MVP mesurable) Tj ET
+0.95 0.67 0.33 rg BT /F 13 Tf 60 77 Td (Equipe et contributions : identification finale a confirmer avant remise.) Tj ET
 endstream
 endobj
 4 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 3 0 R >>
 endobj
 5 0 obj
-<< /Length 1011 >>
+<< /Length 1417 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (01  LE PROBLEME) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Deux responsables, une performance a comprendre) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (DAF : comparer chiffre d'affaires et budgets) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Operations : suivre examens, vacations et activite) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (Hypothese : les sources dispersees retardent l'analyse) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (HMW : comment identifier et comprendre plus vite les ecarts ?) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (2 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (02  EMPATHIE ET DEFINITION) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Le probleme : des indicateurs disperses) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (2 / 8) Tj ET
+0.09 0.17 0.23 rg 45 224 418 167 re f
+0.26 0.83 0.72 rg 45 386 418 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 61 354 Td (DAF) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 321 Td (Comparer le chiffre d'affaires aux budgets,) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 301 Td (comprendre les ecarts et consolider les resultats.) Tj ET
+0.09 0.17 0.23 rg 482 224 433 167 re f
+0.26 0.83 0.72 rg 482 386 433 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 498 354 Td (DIRECTEUR DES OPERATIONS) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 498 321 Td (Suivre les examens et vacations, reperer les centres a) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 498 301 Td (investiguer et prioriser les actions.) Tj ET
+0.12 0.23 0.29 rg 45 97 870 101 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 65 167 Td (HOW MIGHT WE ?) Tj ET
+0.95 0.95 0.93 rg BT /F 16 Tf 65 139 Td (Comment identifier et comprendre plus rapidement les ecarts de performance pour) Tj ET
+0.95 0.95 0.93 rg BT /F 16 Tf 65 116 Td (prendre des decisions adaptees ?) Tj ET
 endstream
 endobj
 6 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 5 0 R >>
 endobj
 7 0 obj
-<< /Length 1008 >>
+<< /Length 1588 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (02  LE CONCEPT) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (RADIOPILOT : une lecture commune de la performance) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (Vue consolidee des indicateurs financiers et operationnels) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Comparaison realise / budget et centres entre eux) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (Alertes lisibles pour orienter les investigations) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (Alternative : rapports et rapprochements manuels) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (3 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (03  PROPOSITION DE VALEUR) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Le concept : une vision commune) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (3 / 8) Tj ET
+0.09 0.17 0.23 rg 45 225 270 168 re f
+0.26 0.83 0.72 rg 45 388 270 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 61 356 Td (01  CONSOLIDER) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 323 Td (CA, honoraires, examens,) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 303 Td (vacations dans une vue commune.) Tj ET
+0.09 0.17 0.23 rg 329 225 270 168 re f
+0.26 0.83 0.72 rg 329 388 270 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 345 356 Td (02  COMPARER) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 345 323 Td (Realise contre budget et centres) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 345 303 Td (comparables, avec contexte.) Tj ET
+0.09 0.17 0.23 rg 613 225 302 168 re f
+0.26 0.83 0.72 rg 613 388 302 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 629 356 Td (03  SIGNALER) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 629 323 Td (Alertes explicables pour mieux) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 629 303 Td (choisir les investigations.) Tj ET
+0.12 0.23 0.29 rg 45 94 870 100 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 67 160 Td (AVANT / APRES) Tj ET
+0.64 0.75 0.79 rg BT /F 16 Tf 67 130 Td (Avant : rapprochements multiples) Tj ET
+0.26 0.83 0.72 rg BT /FB 16 Tf 523 130 Td (Avec RADIOPILOT : ecarts lisibles) Tj ET
 endstream
 endobj
 8 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 7 0 R >>
 endobj
 9 0 obj
-<< /Length 1012 >>
+<< /Length 1806 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (03  LE PROJET DATA) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Des calculs explicables avant toute IA) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (Donnees : CA, budgets, examens, honoraires, vacations) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Ecart = realise - budget ; pourcentage si budget non nul) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (MVP : regles deterministes sur scenarios fictifs) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (Cible : reduction du temps d'identification d'au moins 30 %) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (4 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (04  CRISP-DM ET MODELE) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Le projet data : fiable avant l'IA) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (4 / 8) Tj ET
+0.09 0.17 0.23 rg 45 248 270 143 re f
+0.26 0.83 0.72 rg 45 386 270 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 61 354 Td (SOURCES) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 321 Td (CA, budgets, examens, vacations) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 301 Td (; jeux fictifs pour le MVP.) Tj ET
+0.09 0.17 0.23 rg 327 248 270 143 re f
+0.26 0.83 0.72 rg 327 386 270 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 343 354 Td (QUALITE) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 343 321 Td (Controle des cles, valeurs) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 343 301 Td (manquantes, granularite et) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 343 281 Td (doubles comptes.) Tj ET
+0.09 0.17 0.23 rg 609 248 306 143 re f
+0.26 0.83 0.72 rg 609 386 306 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 625 354 Td (CALCULS) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 625 321 Td (Ecart = realise - budget ; % si) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 625 301 Td (budget non nul ; seuil fictif -10 %.) Tj ET
+0.26 0.83 0.72 RG 3 w 315 316 m 326 316 l S
+0.26 0.83 0.72 RG 3 w 599 316 m 608 316 l S
+0.12 0.23 0.29 rg 45 106 870 110 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 68 180 Td (JEU DE DEMONSTRATION VERIFIABLE) Tj ET
+0.95 0.95 0.93 rg BT /FB 18 Tf 68 146 Td (4 centres fictifs  |  3 mois  |  12 observations) Tj ET
+0.64 0.75 0.79 rg BT /F 14 Tf 68 119 Td (Budget nul et donnees absentes : affichage explicite, jamais un faux zero.) Tj ET
 endstream
 endobj
 10 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 9 0 R >>
 endobj
 11 0 obj
-<< /Length 1011 >>
+<< /Length 1553 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (04  LE MVP) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Tester la valeur avec un prototype cliquable) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (Hypothese : une vue commune accelere la detection) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Trois ecarts a reperer ; meme exercice avec deux supports) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (Mesurer le temps et l'exactitude, sans biais de resultat) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (5 user stories, dont une sur transparence et provenance) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (5 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (05  HYPOTHESE FALSIFIABLE) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Ce que teste le MVP) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (5 / 8) Tj ET
+0.12 0.23 0.29 rg 43 279 871 116 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 66 358 Td (HYPOTHESE H1) Tj ET
+0.95 0.95 0.93 rg BT /F 18 Tf 66 326 Td (Une vue consolidee accelere l'identification de trois ecarts prioritaires,) Tj ET
+0.95 0.95 0.93 rg BT /F 18 Tf 66 301 Td (sans reduire l'exactitude.) Tj ET
+0.09 0.17 0.23 rg 43 112 263 134 re f
+0.26 0.83 0.72 rg 43 241 263 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 59 209 Td (SUPPORT A) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 59 176 Td (Reporting de reference fictif.) Tj ET
+0.09 0.17 0.23 rg 322 112 276 134 re f
+0.26 0.83 0.72 rg 322 241 276 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 338 209 Td (SUPPORT B) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 338 176 Td (Prototype cliquable, memes) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 338 156 Td (objectifs.) Tj ET
+0.09 0.17 0.23 rg 614 112 300 134 re f
+0.26 0.83 0.72 rg 614 241 300 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 630 209 Td (MESURE) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 630 176 Td (Temps moyen et 3 reponses exactes.) Tj ET
+0.95 0.67 0.33 rg BT /F 14 Tf 70 70 Td (Cible : gain >= 30 % ET exactitude non degradee. Aucun resultat reel revendique.) Tj ET
 endstream
 endobj
 12 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 11 0 R >>
 endobj
 13 0 obj
-<< /Length 980 >>
+<< /Length 1982 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (05  LE CADRAGE) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Six semaines, qualite des indicateurs d'abord) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (S1-S2 : besoin et scenarii ; S3-S4 : maquette et KPI) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (S5-S6 : test, corrections et bilan) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (Exclus MVP : causes avancees, temps reel, simulation) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (Assistant IA conversationnel maintenu en V3) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (6 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (06  CHARTE ET DECOUPAGE) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Un MVP leger, un perimetre net) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (6 / 8) Tj ET
+0.12 0.23 0.29 rg 43 338 166 62 re f
+0.95 0.95 0.93 rg BT /FB 14 Tf 54 363 Td (ACCES) Tj ET
+0.12 0.23 0.29 rg 220 338 166 62 re f
+0.95 0.95 0.93 rg BT /FB 14 Tf 231 363 Td (CONSULTER) Tj ET
+0.12 0.23 0.29 rg 397 338 166 62 re f
+0.95 0.95 0.93 rg BT /FB 14 Tf 408 363 Td (COMPARER) Tj ET
+0.12 0.23 0.29 rg 574 338 166 62 re f
+0.95 0.95 0.93 rg BT /FB 14 Tf 585 363 Td (COMPRENDRE) Tj ET
+0.12 0.23 0.29 rg 751 338 166 62 re f
+0.95 0.95 0.93 rg BT /FB 14 Tf 762 363 Td (DECIDER) Tj ET
+0.09 0.17 0.23 rg 43 233 166 91 re f
+0.26 0.83 0.72 rg BT /FB 13 Tf 55 283 Td (Centre / mois) Tj ET
+0.09 0.17 0.23 rg 220 233 166 91 re f
+0.26 0.83 0.72 rg BT /FB 13 Tf 232 283 Td (KPI consolides) Tj ET
+0.09 0.17 0.23 rg 397 233 166 91 re f
+0.26 0.83 0.72 rg BT /FB 13 Tf 409 283 Td (Budget + centres) Tj ET
+0.09 0.17 0.23 rg 574 233 166 91 re f
+0.26 0.83 0.72 rg BT /FB 13 Tf 586 283 Td (Alertes + sources) Tj ET
+0.09 0.17 0.23 rg 751 233 166 91 re f
+0.26 0.83 0.72 rg BT /FB 13 Tf 763 283 Td (Ecart prioritaire) Tj ET
+0.95 0.67 0.33 RG 5 w 42 213 m 919 213 l S
+0.95 0.67 0.33 rg BT /FB 14 Tf 345 189 Td (LIGNE DE DECOUPE MVP) Tj ET
+0.09 0.17 0.23 rg 43 80 421 85 re f
+0.26 0.83 0.72 rg 43 160 421 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 59 128 Td (V2) Tj ET
+0.64 0.75 0.79 rg BT /F 12 Tf 59 95 Td (Causes possibles, equipements.) Tj ET
+0.09 0.17 0.23 rg 482 80 437 85 re f
+0.26 0.83 0.72 rg 482 160 437 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 498 128 Td (V3) Tj ET
+0.64 0.75 0.79 rg BT /F 12 Tf 498 95 Td (Temps reel, simulation, assistant IA conversationnel.) Tj ET
 endstream
 endobj
 14 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 13 0 R >>
 endobj
 15 0 obj
-<< /Length 1019 >>
+<< /Length 1406 >>
 stream
-0.05 0.09 0.15 rg 0 0 960 540 re f
-0.22 0.81 0.73 rg 0 520 960 20 re f
-0.14 0.21 0.30 rg 52 45 856 435 re f
-0.35 0.88 0.78 rg 60 455 35 5 re f
-1 1 1 rg BT /F2 35 Tf 65 405 Td (06  RISQUE DATA & IA) Tj ET
-0.75 0.85 0.91 rg BT /F1 19 Tf 65 363 Td (Des decisions fiables demandent des preuves) Tj ET
-0.31 0.86 0.72 rg 74 309 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 306 Td (Risque principal : mauvais rapprochement de sources) Tj ET
-0.31 0.86 0.72 rg 74 258 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 255 Td (Reponse : definitions, controles, cas limites, provenance) Tj ET
-0.31 0.86 0.72 rg 74 207 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 204 Td (RGPD : exemples fictifs ; aucune donnee confidentielle) Tj ET
-0.31 0.86 0.72 rg 74 156 8 8 re f
-0.95 0.96 0.97 rg BT /F1 17 Tf 98 153 Td (A completer : photos Crazy 8, votes reels, canevas PSB) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 67 25 Td (RADIOPILOT  |  Cadrage academique  |  Donnees fictives pour le MVP) Tj ET
-0.64 0.73 0.82 rg BT /F1 11 Tf 846 25 Td (7 / 7) Tj ET
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (07  RESPONSABILITE ET CONFIANCE) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Le risque data : de faux ecarts) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (7 / 8) Tj ET
+0.09 0.17 0.23 rg 45 253 421 140 re f
+0.95 0.67 0.33 rg 45 388 421 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 61 356 Td (RISQUE PRINCIPAL) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 323 Td (Jointures erronees, doublons ou centres heterogenes) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 61 303 Td (: diagnostics trompeurs.) Tj ET
+0.09 0.17 0.23 rg 485 253 430 140 re f
+0.26 0.83 0.72 rg 485 388 430 5 re f
+0.95 0.95 0.93 rg BT /FB 17 Tf 501 356 Td (REPONSE) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 501 323 Td (Regles de qualite, contexte comparatif, sources et) Tj ET
+0.64 0.75 0.79 rg BT /F 13 Tf 501 303 Td (dates, limites visibles.) Tj ET
+0.12 0.23 0.29 rg 45 102 870 112 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 66 182 Td (PROTECTION) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 66 151 Td (Aucune donnee de sante ou fichier d'entreprise dans le depot. Les bases legales et durees de) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 66 128 Td (conservation restent a definir avant tout usage reel.) Tj ET
 endstream
 endobj
 16 0 obj
-<< /Type /Page /Parent 17 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 15 0 R >>
 endobj
 17 0 obj
-<< /Type /Pages /Count 7 /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] >>
+<< /Length 1506 >>
+stream
+0.035 0.08 0.13 rg 0 0 960 540 re f
+0.26 0.83 0.72 rg 0 527 960 13 re f
+0.26 0.83 0.72 rg BT /FB 12 Tf 40 495 Td (08  JALONS ET POINTS DE PREUVE) Tj ET
+0.95 0.95 0.93 rg BT /FB 30 Tf 40 451 Td (Du prototype au verdict) Tj ET
+0.12 0.23 0.29 RG 2 w 40 429 m 920 429 l S
+0.64 0.75 0.79 rg BT /F 11 Tf 40 26 Td (RADIOPILOT  |  MSc Data Management 2  |  Demonstrateur academique) Tj ET
+0.64 0.75 0.79 rg BT /F 11 Tf 866 26 Td (8 / 8) Tj ET
+0.09 0.17 0.23 rg 45 271 277 116 re f
+0.26 0.83 0.72 rg 45 383 277 5 re f
+0.26 0.83 0.72 rg BT /FB 26 Tf 63 350 Td (S1-2) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 63 317 Td (Besoin et sources) Tj ET
+0.09 0.17 0.23 rg 337 271 277 116 re f
+0.26 0.83 0.72 rg 337 383 277 5 re f
+0.26 0.83 0.72 rg BT /FB 26 Tf 355 350 Td (S3-4) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 355 317 Td (Scenarios et maquette) Tj ET
+0.09 0.17 0.23 rg 629 271 277 116 re f
+0.26 0.83 0.72 rg 629 383 277 5 re f
+0.26 0.83 0.72 rg BT /FB 26 Tf 647 350 Td (S5-6) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 647 317 Td (Tests et bilan) Tj ET
+0.12 0.23 0.29 rg 45 102 870 136 re f
+0.26 0.83 0.72 rg BT /FB 11 Tf 67 206 Td (PREUVES A JOINDRE AVANT LA REMISE) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 67 171 Td (Photos reelles du Crazy 8 et de la matrice, points de vote, canevas PSB, identite et commits) Tj ET
+0.95 0.95 0.93 rg BT /F 15 Tf 67 147 Td (de chaque membre, journal des prompts.) Tj ET
+0.95 0.67 0.33 rg BT /F 13 Tf 67 121 Td (L'equipe valide les faits. L'IA structure les livrables sans fabriquer de preuves.) Tj ET
+endstream
 endobj
 18 0 obj
-<< /Type /Catalog /Pages 17 0 R >>
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F 1 0 R /FB 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Count 8 /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
 endobj
 xref
-0 19
+0 21
 0000000000 65535 f 
 0000000009 00000 n 
 0000000079 00000 n 
 0000000154 00000 n 
-0000001161 00000 n 
-0000001298 00000 n 
-0000002360 00000 n 
-0000002497 00000 n 
-0000003556 00000 n 
-0000003693 00000 n 
-0000004756 00000 n 
-0000004894 00000 n 
-0000005957 00000 n 
-0000006096 00000 n 
-0000007127 00000 n 
-0000007266 00000 n 
-0000008337 00000 n 
-0000008476 00000 n 
-0000008574 00000 n 
+0000001329 00000 n 
+0000001465 00000 n 
+0000002933 00000 n 
+0000003069 00000 n 
+0000004708 00000 n 
+0000004844 00000 n 
+0000006701 00000 n 
+0000006838 00000 n 
+0000008443 00000 n 
+0000008581 00000 n 
+0000010615 00000 n 
+0000010753 00000 n 
+0000012211 00000 n 
+0000012349 00000 n 
+0000013907 00000 n 
+0000014045 00000 n 
+0000014150 00000 n 
 trailer
-<< /Size 19 /Root 18 0 R >>
+<< /Size 21 /Root 20 0 R >>
 startxref
-8625
+14201
 %%EOF
