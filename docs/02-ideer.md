@@ -1,65 +1,81 @@
 # 02 — Idéer et converger
 
-> Discipline documentaire : ne pas confondre les propositions du groupe, les traces d'atelier non fournies et les reconstitutions de présentation.
+**Projet : RADIOPILOT**  
+**Équipe : Habib KOFFI et Hariph ASSOUMA ALASSANE**
 
-## Divergence : Crazy 8
+## 1. Divergence — Crazy 8
 
-**Consigne :** chaque membre réalise individuellement 8 idées en 8 minutes ; 1 croquis et **3 mots au maximum** par case. Les photos des feuilles originales doivent être déposées dans `docs/img/`.
+L'équipe a fourni le **10 novembre 2026 une photographie originale montrant deux feuilles disposées chacune en huit cases**. La première comporte huit croquis ; la seconde présente huit pistes sous forme principalement textuelle. L'attribution de chacune des feuilles à un membre n'est pas établie sur la photo.
 
-Le fichier de travail fourni ne contient pas de feuilles Crazy 8 exploitables en texte. **Nous ne prétendons pas avoir observé les 8 croquis individuels**. Ajouter les photographies véritables, datées et attribuées, sans reconstituer une fausse preuve.
+### Feuille supérieure — huit idées et croquis identifiables
 
-### Inventaire des idées mentionnées dans le travail du groupe
-
-Les trois propositions suivantes apparaissent explicitement sous « vote par point » :
-1. **Pilotage centralisé intelligent**
-2. **Détection des écarts**
-3. **Assistant IA conversationnel**
-
-Les formulations ci-dessous décrivent des fonctionnalités effectivement citées ailleurs dans le document, mais **leur classement au vote n'est pas établi** :
-4. **Benchmark entre centres**
-5. **Comparaison au budget**
-
-**Attention :** cet inventaire de cinq idées n'est **pas** un résultat de vote inventé. Le groupe doit fournir les bulletins ou confirmer l'ordre des cinq idées avant que la matrice puisse être qualifiée de matrice issue du vote.
-
-## Convergence : vote par points
-
-**Règle officielle : 3 points par personne, attribués en silence.** Le fichier source liste trois idées, sans nombre de voix ni preuve de la distribution des points. **Total par idée : non documenté.** Ne pas fabriquer de classement chiffré.
-
-| Idée citée | Présence dans le document source | Points obtenus |
+| Case | Intitulé reformulé en trois mots maximum | Indice présent sur le croquis |
 |---|---|---|
-| Pilotage centralisé intelligent | Oui | Non communiqués |
-| Détection des écarts et aide à la décision | Oui | Non communiqués |
-| Assistant IA conversationnel | Oui | Non communiqués |
-| Benchmark entre centres | Fonctionnalité présente, pas de vote attesté | Non communiqués |
-| Comparaison réalisé / budget | Fonctionnalité présente, pas de vote attesté | Non communiqués |
+| 1 | Vue consolidée | Tableau de bord avec graphiques |
+| 2 | Alertes écarts | Deux notifications d'alerte |
+| 3 | Analyse des causes | Arbre de facteurs (vacations, examens, autres) |
+| 4 | Comparaison budgétaire | Barres réalisé / budget |
+| 5 | Performance des centres | Classement Centre A, B et C |
+| 6 | Utilisation équipements | Jauge circulaire d'utilisation |
+| 7 | Simulation d'actions | Réglages et courbe projetée |
+| 8 | Suivi temps réel | Écran avec courbes d'évolution |
 
-## Matrice Impact / Effort — hypothèse de positionnement à confirmer
+### Feuille inférieure — huit propositions textuelles
 
-La matrice suivante est une **analyse qualitative préparatoire**, et non une photographie de l'atelier ni son vote officiel.
+| Case | Libellé lisible ou interprétation prudente |
+|---|---|
+| 1 | N / N-1 (comparaison temporelle) |
+| 2 | Activité reliée aux vacations |
+| 3 | KPI consolidés |
+| 4 | Suivi historique de FT (abréviation relevée, à confirmer) |
+| 5 | Assistant questions (IA) |
+| 6 | Rapport automatique mensuel |
+| 7 | Alertes écarts |
+| 8 | Analyse des causes |
 
-| Impact pressenti | Effort faible à modéré | Effort élevé |
-|---|---|---|
-| Fort | Pilotage centralisé ; détection des écarts ; comparaison réalisé/budget | Assistant IA conversationnel |
-| Moyen à fort | Benchmark des centres (sous réserve d'homogénéité des données) | — |
+**Fidélité de la preuve :** la photo atteste deux supports de huit cases. Elle ne permet pas de prouver indépendamment les huit minutes d'exécution, l'identité de chaque auteur ni un croquis dans chaque case de la seconde feuille. Les libellés ci-dessus servent à **transcrire** les idées, sans remplacer les inscriptions manuscrites.
 
-Les positions présumées dépendent de la disponibilité et de la fiabilité des données. Le benchmark peut devenir coûteux si les structures ne sont pas comparables. À vérifier avec les photos de la matrice originale.
+**Pièce photographique à déposer :** `docs/img/crazy8-groupe.jpg` (original transmis dans la conversation ; mise en ligne à réaliser).
 
-**Concept retenu dans le document : RADIOPILOT.**
+## 2. Convergence — vote
 
-### Phrase-concept (format demandé)
+Le groupe confirme avoir **voté oralement** et retenu trois axes :
+1. Pilotage centralisé intelligent ;
+2. Détection des écarts et aide à la décision ;
+3. Assistant IA conversationnel.
 
-**RADIOPILOT propose une plateforme de pilotage centralisé des indicateurs financiers et opérationnels aux DAF et directeurs des opérations des centres d'imagerie médicale, pour comparer les performances, détecter les écarts significatifs et faciliter les décisions, contrairement au rapprochement manuel de données issues de sources distinctes.**
+Le PDF du professeur prescrit **un vote par points en silence, trois points par personne**. Aucun décompte chiffré n'a été conservé. En conséquence, **la sélection orale est authentiquement déclarée mais ne doit pas être présentée comme la preuve d'un vote silencieux à points** ; aucun score n'est inventé.
 
-### Décision sur l'IA
+## 3. Matrice Impact / Effort — cinq idées
 
-L'assistant IA conversationnel est **conservé parmi les idées du groupe** ; sa réalisation est prévue en V3 dans le document de travail. Cela ne signifie ni qu'il a été éliminé au vote, ni qu'il est inclus dans le MVP. Voir `03-valeur.md`, `04-crisp-dm.md` et `05-mvp.md`.
+Conformément à la demande de placer **cinq idées**, la matrice utilise les **trois axes de convergence rapportés par le groupe**, puis deux idées complémentaires directement observables dans les Crazy 8 :
 
-## Preuves requises avant la remise
+| Idée | Impact potentiel | Effort relatif estimé | Justification | Périmètre |
+|---|---|---|---|---|
+| Pilotage centralisé intelligent | Élevé | Modéré | Vision commune des KPI | MVP |
+| Détection des écarts | Élevé | Modéré | Repérage des anomalies budgétaires | MVP |
+| Assistant IA conversationnel | Élevé | Élevé | Questions en langage naturel, nécessité de garanties sur l'explicabilité | V3 |
+| Comparaison des centres | Élevé | Élevé | Comparabilité dépendant des équipements et des périmètres | MVP contextualisé |
+| Comparaison réalisé/budget | Élevé | Faible à modéré | Calcul simple si les sources et définitions concordent | MVP |
 
-- [ ] Photos **authentiques** de chaque Crazy 8 individuel dans `docs/img/`
-- [ ] Vérification « 8 cases, 3 mots maximum, un croquis par case »
-- [ ] Répartition **réelle** des trois points par membre, si disponible
-- [ ] Photo **authentique** de la matrice et confirmation des **cinq** idées
-- [ ] Vérification de la concordance entre vote, matrice et concept
+![Matrice Impact / Effort des cinq idées](img/matrice-impact-effort.svg)
 
-Sans ces traces, la partie peut être présentée comme **préparée mais non entièrement prouvée**, jamais comme un atelier vérifié.
+**Statut méthodologique :** ce schéma est une **reconstruction structurée** à partir de la photo et du document déjà rédigé ; il ne prétend pas être la photographie d'une matrice physique originale ou le classement chiffré d'un vote.
+
+La présence de l'**assistant IA conversationnel** parmi les idées retenues est préservée. La décision cohérente avec la charte et la proposition de valeur consiste à le préparer pour **V3**, non à le retirer du concept. Son utilité devra être démontrée avant tout développement avancé.
+
+## 4. Concept retenu — confirmé par le groupe
+
+**RADIOPILOT** est le concept retenu.
+
+**Phrase-concept (format demandé) :**  
+> RADIOPILOT propose une plateforme de pilotage centralisé des indicateurs financiers et opérationnels aux directeurs administratifs et financiers et aux directeurs des opérations des centres d'imagerie médicale, pour comparer les performances, détecter les écarts significatifs et faciliter les décisions, contrairement aux pratiques de rapprochement manuel de sources distinctes.
+
+## Traçabilité
+
+- **Photo :** originale, fournie par le groupe le 10 novembre 2026. Les deux feuilles montrent 16 propositions.
+- **Vote :** oral, confirmé par le groupe, sans répartition chiffrée documentée.
+- **Matrice :** reconstruite par l'IA à partir des idées visibles et de la convergence déclarée ; les positions Impact/Effort sont des estimations, **pas des mesures**.
+- **Choix final :** RADIOPILOT, confirmé explicitement par le groupe.
+
+Aucun entretien utilisateur ni résultat quantitatif supplémentaire n'est revendiqué.
