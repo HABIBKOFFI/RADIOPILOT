@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f7fafb"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#163447}.h{font-size:31px;font-weight:bold}.k{font-size:20px;font-weight:bold}.d{font-size:17px}.small{font-size:15px;fill:#526d78}.axis{stroke:#29495a;stroke-width:3}.cut{stroke:#c2dae0;stroke-width:2;stroke-dasharray:7 7}</style>
+<text x="57" y="65" class="h">RADIOPILOT — Matrice Impact / Effort</text>
+<text x="57" y="98" class="small">Reconstruction analytique des 5 idées issues du document et de la photo d’atelier — positions estimées, non photographiées.</text>
+<rect x="130" y="146" width="950" height="522" rx="18" fill="#e9f3f4"/>
+<rect x="130" y="146" width="475" height="261" rx="12" fill="#d7f1e9"/><rect x="605" y="146" width="475" height="261" rx="12" fill="#fff0dd"/>
+<rect x="130" y="407" width="475" height="261" rx="12" fill="#eff4f6"/><rect x="605" y="407" width="475" height="261" rx="12" fill="#eff4f6"/>
+<line x1="605" x2="605" y1="146" y2="668" class="cut"/><line x1="130" x2="1080" y1="407" y2="407" class="cut"/>
+<line x1="130" y1="668" x2="1080" y2="668" class="axis"/><line x1="130" y1="668" x2="130" y2="146" class="axis"/>
+<text x="330" y="183" class="k">Gains rapides</text><text x="778" y="183" class="k">Investissements stratégiques</text>
+<text x="340" y="446" class="small">À évaluer plus tard</text><text x="770" y="446" class="small">Complexité forte, impact à confirmer</text>
+<rect x="178" y="213" width="360" height="61" rx="10" fill="white" stroke="#77c4b0" stroke-width="2"/><text x="198" y="249" class="d">1. Pilotage centralisé</text>
+<rect x="178" y="292" width="360" height="61" rx="10" fill="white" stroke="#77c4b0" stroke-width="2"/><text x="198" y="329" class="d">2. Détection des écarts</text>
+<rect x="648" y="230" width="390" height="68" rx="10" fill="white" stroke="#e3b576" stroke-width="2"/><text x="670" y="257" class="d">3. Assistant IA conversationnel</text><text x="670" y="279" class="small">Vision V3</text>
+<rect x="178" y="495" width="360" height="63" rx="10" fill="white" stroke="#c0cbd0" stroke-width="2"/><text x="198" y="532" class="d">4. Comparaison des centres</text>
+<rect x="178" y="577" width="360" height="58" rx="10" fill="white" stroke="#c0cbd0" stroke-width="2"/><text x="198" y="612" class="d">5. Comparaison au budget</text>
+<text x="504" y="728" class="k">EFFORT →</text><text x="60" y="178" transform="rotate(-90 60 178)" class="k">IMPACT →</text>
+<text x="133" y="692" class="small">Faible</text><text x="1005" y="692" class="small">Élevé</text>
+<text x="57" y="767" class="small">La position des items 4 et 5 est à confirmer : le vote oral ne laisse pas de comptage écrit. Aucune note chiffrée inventée.</text>
+</svg>
