@@ -121,3 +121,14 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 - [Audit de conformité et preuves manquantes](docs/audit-conformite.md)
 
 Le jeu fictif comporte **4 centres × 3 mois = 12 observations**. Les alertes illustratives utilisent un seuil **−10 %** ; ce seuil est distinct du **30 %** attendu pour l'efficacité du test utilisateur. Aucune métrique n'est présentée comme résultat observé.
+
+
+### Vérifier les règles de démonstration
+
+Le prototype HTML peut être téléchargé et ouvert localement, sans serveur ni compte. Pour exécuter le contrôle indépendant des 12 observations et des cas limites :
+
+```bash
+python scripts/validate_demo.py
+```
+
+Le script vérifie des résultats attendus **sur des données fictives** ; il ne prouve pas le gain de temps de 30 %. Les preuves authentiques de Design Thinking restent à fournir.
