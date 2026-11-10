@@ -76,3 +76,13 @@ Le MVP couvre toutes les étapes du parcours sans prétendre construire toute la
 ## 5. Règle de validation
 
 Les critères de test sont vérifiables sur prototype interactif ; ils n'attestent **pas** du fonctionnement d'un système de données réel. Aucun seuil métier autre que le **30 % du test** n'est présenté comme validé par un utilisateur.
+
+
+## Visualisation et protocole associé
+
+![Story map du parcours et ligne de decoupe du MVP](img/story-map.svg)
+
+- [Protocole d'évaluation prévu](protocole-test.md)
+- [Jeu de données et calculs de référence](data-dictionary.md)
+
+Cette story map reste une transcription visuelle du **même périmètre MVP / V2 / V3** que la charte, la proposition de valeur et le deck ; elle n'atteste pas qu'une séance d'observation ou un test utilisateur a eu lieu.
