@@ -60,3 +60,10 @@ Le modèle graphique officiel du Value Proposition Canvas (annexes PSB Learn) do
 ## Proposition de valeur
 
 RADIOPILOT aide les DAF et directeurs des opérations à suivre les performances des centres d'imagerie médicale à partir d'indicateurs consolidés, de comparaisons budgétaires et d'alertes interprétables. La centralisation vise à réduire le temps d'identification des écarts, sans présumer de l'efficacité avant test.
+
+
+## Support visuel de conception
+
+![Representation preparatoire du Value Proposition Canvas](img/vpc-travail.svg)
+
+**Attention :** cette visualisation facilite la relecture ; **le canevas officiel des annexes PSB Learn reste à compléter** avant la remise. Les hypothèses du profil client ne sont pas des constats d'entretien.
