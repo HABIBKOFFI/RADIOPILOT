@@ -107,3 +107,16 @@ Ces jalons ne sont **pas** présentés comme déjà atteints.
 - [ ] Vérifier l'accès de l'enseignante au repo avant dépôt du lien.
 
 **Aucune de ces cases n'est cochée sans preuve.** Le hors-périmètre du cours inclut Linear, le WBS détaillé et le Gantt : non ajoutés.
+
+
+## Renforts méthodologiques et démonstrateur vérifiable
+
+- [Dictionnaire des données et calculs de référence](docs/data-dictionary.md)
+- [Jeu de données entièrement fictif](data/radiopilot_synthetique.csv)
+- [Protocole de test utilisateur (vierge)](docs/protocole-test.md)
+- [Architecture du flux de démonstration](docs/img/architecture-data.svg)
+- [Visualisation de la story map](docs/img/story-map.svg)
+- [Représentation de travail du Value Proposition Canvas](docs/img/vpc-travail.svg) — **ne remplace pas** le modèle PSB Learn.
+- [Audit de conformité et preuves manquantes](docs/audit-conformite.md)
+
+Le jeu fictif comporte **4 centres × 3 mois = 12 observations**. Les alertes illustratives utilisent un seuil **−10 %** ; ce seuil est distinct du **30 %** attendu pour l'efficacité du test utilisateur. Aucune métrique n'est présentée comme résultat observé.
